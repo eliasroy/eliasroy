@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Yo soy Elias Provincia</h1>
 <h3 align="center">soy full stack apasionado</h3>
 
-- 🌱 I’m currently learning **react, spring, vue y node**
+- 🌱 Actualmente estoy aprendiendo **react, vue , node y phyton**
 
-- 👨‍💻 All of my projects are available at [https://eliasroy.github.io/portafolio/](https://eliasroy.github.io/portafolio/)
+- 👨‍💻 Todos mis proyectos están aquí [https://eliasroy.github.io/portafolio/](https://eliasroy.github.io/portafolio/)
 
-- 💬 Ask me about **javascript, c# , java , spring boot y html/css**
+- 💬 Preguntame sobre **javascript, c# , java , spring boot y html/css**
 
-- 📫 How to reach me **provinciaelias@gmail.com**
+- 📫 Contactame **provinciaelias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
