@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Elias Provincia</h1>
 <h3 align="center">soy full stack apasionado</h3>
 
-- 🌱 Actualmente estoy aprendiendo ** phyton**
+- 🌱 Actualmente estoy aprendiendo ** python**
 
 - 👨‍💻 Todos mis proyectos están aquí [https://eliasroy.github.io/portafolio/](https://eliasroy.github.io/portafolio/)
 
